@@ -1,0 +1,72 @@
+
+v1.2.1 19.11.12
+--
+added : inline responsive video support
+fixed : IE8 compatibility
+updated documentation
+
+updated files: 
+	css/main.css
+	js/main.js
+	portfolio-item-01.html (back to portfolio link url)
+	
+---
+
+v1.2 09.11.12
+--
+fixed: contact form tab key press - page change issue : disabled jmpress keyboard navigation : 
+fixed: contact page google map issue on iphone
+added: new social icons: pinterest and souncloud.
+added: image logo support
+added: custom url support for portfolio items
+updated documentation
+
+updated files: 
+	css/main.css
+	css/skins/base/light-text.css
+	css/skins/extra/retro.css
+	css/skins/extra/overlay.css
+	js/main.js
+	js/iscroll.js
+	images/bckg
+	index.html : 
+		added new data attributes to html tag : data-hideScrollbar="true"
+		updated social media markup 
+
+---
+
+v1.1.1 24.10.1
+--
+fixed: an issue about scrolling on ios6
+
+updated files: 
+js/main.js
+js/iscroll.js
+js/jscroll.js
+
+---
+
+v1.1 24.10.12
+--
+fixed: ios5 portfolio page issue
+fixed: mouse whell scroll support on firefox 16 : iscroll updated.
+optimized ajax portfolio details script
+added +5 new patterns
+
+updated files: 
+js/main.js
+js/iscroll.js
+css/main.css
+css/skins/background folder
+images/bckg folder
+
+---
+
+v1.0
+--
+18.18.2012
+initial release
+
+---
+
+
